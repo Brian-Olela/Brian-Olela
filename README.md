@@ -192,16 +192,6 @@ POWER LEVEL: OVER 9000
 
 ---
 
-## 🌌 COSMIC VISUAL SPECTACLE
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bX9Z9Q9Z9Z9/giphy.gif" width="300" alt="Cyberpunk Matrix"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Digital Rain"/>
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300" alt="Hacker Code"/>
-</div>
-
----
-
 ## ⚡ POWER SOURCE & FUEL
 
 <div align="center">
