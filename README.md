@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <h2>🎖️ CODE NAME: T-CODE-BIT 🎖️</h2>
+  <h2>🎖️ CODE NAME: Brian-Olela 🎖️</h2>
   <h3>🏴‍☠️ FACTION: ULTIMATE CYBERPUNK EMPIRE 🏴‍☠️</h3>
   <h4>⚔️ RANK: SUPREME HACKER COMMANDER ⚔️</h4>
 </div>
@@ -102,11 +102,11 @@
 
   <!-- GitHub Stats Card -->
   <img height="220em" 
-       src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff00ff&text_color=39ff14&icon_color=00ffff&border_color=ff00ff&border_radius=15&ring_color=ff1493&hide_border=false" />
+       src="https://github-readme-stats.vercel.app/api?username=Brian-Olela&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff00ff&text_color=39ff14&icon_color=00ffff&border_color=ff00ff&border_radius=15&ring_color=ff1493&hide_border=false" />
 
   <!-- Top Languages Card -->
   <img height="220em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-code-bit&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=00ffff&border_color=ff00ff&border_radius=15&hide_border=false" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Olela&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=00ffff&border_color=ff00ff&border_radius=15&hide_border=false" />
 
 </div>
 
@@ -116,7 +116,7 @@
 ## 🔥 ACTIVE MISSION LOG
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=dark&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brian-Olela&theme=dark&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000" />
 </div>
 
 ### 🚀 CURRENT OPERATIONS:
@@ -134,7 +134,7 @@
 ## 🏆 LEGENDARY ACHIEVEMENTS
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-code-bit&theme=merko&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brian-Olela&theme=merko&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
 </div>
 
 ---
