@@ -96,23 +96,6 @@
 
 ---
 
-## 📊 SUPREME COMBAT STATISTICS
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img height="220em" 
-       src="https://github-readme-stats.vercel.app/api?username=Brian-Olela&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff00ff&text_color=39ff14&icon_color=00ffff&border_color=ff00ff&border_radius=15&ring_color=ff1493&hide_border=false" />
-
-  <!-- Top Languages Card -->
-  <img height="220em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Olela&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=00ffff&border_color=ff00ff&border_radius=15&hide_border=false" />
-
-</div>
-
-
----
-
 ## 🔥 ACTIVE MISSION LOG
 
 <div align="center">
@@ -128,14 +111,6 @@
 - **🛡️ CYBER FORTRESS**: Impenetrable multi-layered security systems
 - **🔬 QUANTUM LAB**: Experimental quantum computing applications
 - **🎮 METAVERSE ENGINE**: Next-generation virtual reality frameworks
-
----
-
-## 🏆 LEGENDARY ACHIEVEMENTS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brian-Olela&theme=merko&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
-</div>
 
 ---
 
