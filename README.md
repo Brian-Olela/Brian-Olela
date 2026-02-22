@@ -348,7 +348,7 @@ const aiOverlord = async (input) => {
 
 <div align="center">
   <blockquote>
-    <p>"T-code-bit doesn't just write code—he hacks reality itself. His quantum algorithms are literally from the future."</p>
+    <p>"Brian Olela doesn't just write code—he hacks reality itself. His quantum algorithms are literally from the future."</p>
     <cite>- Elon Musk, CEO of xAI</cite>
   </blockquote>
   <blockquote>
