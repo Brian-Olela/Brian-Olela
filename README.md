@@ -1,7 +1,7 @@
 <!-- 🔥 ULTIMATE 5-STAR CYBERPUNK HACKER README 🔥 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,50:ff4500,100:ff1493,100:9400d3&height=150&section=header&text=TRIBAL%20TECH%20NEXUS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Ultimate Cyberpunk Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,50:ff4500,100:ff1493,100:9400d3&height=150&section=header&text=BRIAN%20OLELA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Ultimate Cyberpunk Banner"/>
 </div>
 
 ---
@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <h2>🎖️ CODE NAME: Brian-Olela 🎖️</h2>
+  <h2>🎖️ CODE NAME: Brian Olela 🎖️</h2>
   <h3>🏴‍☠️ FACTION: ULTIMATE CYBERPUNK EMPIRE 🏴‍☠️</h3>
   <h4>⚔️ RANK: SUPREME HACKER COMMANDER ⚔️</h4>
 </div>
