@@ -339,7 +339,7 @@ const aiOverlord = async (input) => {
 ## 📊 ACTIVITY TIMELINE
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-code-bit&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Olela&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
